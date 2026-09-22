@@ -1,9 +1,9 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E3,100:FFB6D9&height=200&section=header&text=Juli%20✨&fontSize=60&fontColor=6B3F4B&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Cat%20Mom%20🐾&descAlignY=55&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9EC4&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Juli!+%F0%9F%8C%B8;Estudante+de+Engenharia+de+Software;Apaixonada+por+c%C3%B3digo+e+gatinhos+frajolinha+%F0%9F%90%88" alt="Typing SVG" /> </div> <br> <table align="center"> <tr> <td width="50%" valign="top">
 🩷 Sobre mim
-🐾 name: Juli
+🐾 name: Juliana Bezerra
 💻 role: Software Eng. Student
 🏢 apprentice @ Heineken Brasil
-🎓 SENAI — technical degree
+🎓 SENAI — technical degree 
 📍 based in: Salvador, BA - Brasil
 🌸 vibe: pastel pink & tuxedo cats
 </td> <td width="50%" valign="top">
